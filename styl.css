@@ -75,3 +75,27 @@ width: 25%;
    font-size: 20px;
 margin-top: 50%;
 }
+/*  */
+.images{
+    display: flex;
+    gap: 1%;
+    justify-content: center;
+}
+.images img{
+    width: 11%;
+}
+/*  */
+.para{
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+.para1{
+    display: flex;
+    gap: 20%;
+    margin-top: 1%;
+}
+.para p{
+    width: 10.7%;
+    
+}
