@@ -99,3 +99,70 @@ margin-top: 50%;
     width: 10.7%;
     
 }
+/*  */
+.gridm{
+    display: flex;
+    
+}
+.gridf{
+   
+    width: 55%;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    
+  
+}
+.grid1 img{
+   width: 50%;
+   
+}
+.grid2 h6{
+    color: gray;
+    font-weight: bold;
+    
+ }
+.grids{
+    border:1px solid red ;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+margin-left: 5%;
+}
+.grid1{
+    display: flex;
+   
+}
+.grid2{
+display: flex;
+flex-direction: column;
+margin-left: 4%;
+
+}
+
+.grid1 p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.grid3 img{
+width: 40%;
+
+
+}
+.grid3{
+   display: flex;
+    
+}
+.grid4{
+    display: flex;
+    flex-direction: column; 
+    margin-left: 4%;
+    border: 2px solid green;
+    width: 40%;
+    
+}
+.grid4 p{
+    font-weight: bold;
+    font-size: 15px;
+    
+}
