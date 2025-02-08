@@ -123,7 +123,6 @@ margin-top: 50%;
     
  }
 .grids{
-    border:1px solid red ;
     width: 30%;
     display: flex;
     flex-direction: column;
@@ -171,4 +170,13 @@ margin-left: 4%;
     color: gray;
     font-weight: bold;
     
+ }
+ .hype p{
+    margin-left: 2%;
+    width: 60%;
+    
+ }
+ .hype h1{
+    font-size: 25px;
+    margin-left: 10%;  
  }
